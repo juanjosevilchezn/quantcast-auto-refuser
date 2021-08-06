@@ -857,7 +857,7 @@ div[data-cookie-law-banner-selector]
 .ulCookiePol
 #dataprotectionmessage
 .component-cookie-banner
-div[style*='bg_cookies.jpg']
+div[style*="bg_cookies.jpg"]
 #lsw-cookie-bottom-box
 .maia-notification maia-stage display
 #notification__cookie
@@ -9880,7 +9880,6 @@ div[aria-label="cookieconsent"]
 .cookieDisclaimer
 #ctl00_cookieNotice
 #bandeau_cookie
-.info-top
 .login-cookie-message
 #cookie_header_top
 .cookies-row
@@ -10735,7 +10734,7 @@ awsui-alert[dismiss*="CookieBanner"]
 #info_cookie
 #tenantAcceptText
 #cookie-es
-#idrMasthead > .idrPageRow[style*='z-index:1']
+#idrMasthead > .idrPageRow[style*="z-index:1"]
 #cookie_accept_container
 .cc-window cookie
 #content-pol-cookies
@@ -12437,3 +12436,31 @@ body > sibbo-cmp-layout
 #cookieoverlay-x
 #ta-cc-modal
 .ta-cc-modal
+#lgcookieslaw_banner
+.lgcookieslaw_banner
+.cookieconsent-overlay
+.consent-overlay
+#_cpmt-css
+#_cpmt-iframe
+#modalcooky
+.modalcooky
+.block-aljamir-cookies
+.eupopup-bg-container
+.cookie-monster__container
+div[data-cookie-consent-overlay]
+#gdpr-new-container
+.cookies-banner-full-wrapper
+.cookies-desktop
+#cookiebanner
+#cookie-rgpd
+#dl_cookieBanner
+#gdpr-consent-tool-wrapper
+script[src*="dpg"]
+#rgpd_pp
+#usercentrics-root
+.cookies-advice-bar
+#tt-cookie-backdrop
+[title="Before you continue to Google Search"]
+correos-cdk-cookies-module
+#cookies-block
+#cmp-app-container
